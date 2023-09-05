@@ -1,0 +1,6 @@
+fDLG6YqPzBF8eGnX -admin pass
+
+
+mb Ckv67zy8nOMdwtTc
+
+mongodb+srv://admin:<password>@cluster0.a8oqatb.mongodb.net/?retryWrites=true&w=majority
